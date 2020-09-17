@@ -3,4 +3,4 @@ document.addEventListener("DOMContentLoaded", function(){
   console.log("The DOM has loaded");
 });
 
-console.log("hello")
+console.log("hello");
